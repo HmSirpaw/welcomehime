@@ -29,4 +29,4 @@ client.on('guildMemberAdd', member => {
     if (!channel) return;//This is basically saying: If it finds ch.name
     channel.send({embed})//it will return with this embed
 });
-client.login('Token')
+client.login('NjQzNzM0MzI2Njc2MTYwNTMz.Xcu9Bg.mdCk0wB0GwbZQq1tAFHNAi8DHcU')
